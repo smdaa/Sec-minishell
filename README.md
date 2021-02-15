@@ -16,4 +16,4 @@ shells Unix, comme le bash...
 
 ## License
 
-Ce projet est sous licence ``Anyone But INP-ENSEEIHT License`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
+Ce projet est sous licence ``Anyone But INP-ENSEEIHT License`` - voir le fichier [LICENCE.md](LICENCE.md) pour plus d'informations
